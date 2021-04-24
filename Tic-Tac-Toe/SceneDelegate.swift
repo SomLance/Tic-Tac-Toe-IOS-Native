@@ -1,9 +1,9 @@
 //
-//  SceneDelegate.swift
+//  AppDelegate.swift
 //  Tic-Tac-Toe
 //
-//  Created by Hossam Elbahrawy on 3/2/20.
-//  Copyright © 2020 Hossam Elbahrawy. All rights reserved.
+//  Created by Somnath Ghosh
+//  https://somlance.com
 //
 
 import UIKit
